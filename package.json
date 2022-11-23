@@ -23,11 +23,11 @@
 		"typescript": "4.8.4"
 	},
 	"prettier": {
-    "arrowParens": "always",
-    "semi": true,
-    "trailingComma": "all",
-    "singleQuote": false
-  },
+		"arrowParens": "always",
+		"semi": true,
+		"trailingComma": "all",
+		"singleQuote": false
+	},
 	"eslintConfig": {
 		"extends": [
 			"eslint-config-next"
